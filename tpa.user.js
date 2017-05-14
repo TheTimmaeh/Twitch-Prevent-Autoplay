@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Twitch Prevent Autoplay
-// @namespace    https://thetimmaeh.com/tpa
-// @version      0.1
+// @icon         https://www.twitch.tv/favicon.ico
+// @namespace    https://github.com/TheTimmaeh/Twitch-Prevent-Autoplay
+// @version      0.2
 // @description  Prevents Autoplay in embedded Twitch Players
 // @author       TheTimmaeh
 // @match        *://player.twitch.tv/*
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/TheTimmaeh/Twitch-Prevent-Autoplay/master/tpa.user.js
 // @updateURL    https://raw.githubusercontent.com/TheTimmaeh/Twitch-Prevent-Autoplay/master/tpa.user.js
+// @supportURL   https://github.com/TheTimmaeh/Twitch-Prevent-Autoplay
 // ==/UserScript==
 
 // Initialize GET Object
